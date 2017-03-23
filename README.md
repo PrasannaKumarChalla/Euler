@@ -1,1 +1,1 @@
-# Swift implementation of project Euler
+# Swift solutions for project Euler
